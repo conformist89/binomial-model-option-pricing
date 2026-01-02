@@ -1,6 +1,6 @@
 # American Option Pricing with the Binomial Model
 
-This repository provides a clear and educational implementation of **American option pricing** using the **Cox–Ross–Rubinstein (CRR) binomial model**. The project is designed for learners and practitioners interested in understanding **early exercise features** of American options through transparent, well-documented Python code.
+This repository provides a clear and educational implementation of **American option pricing** using the **Binomial model**. The project is designed for learners and practitioners interested in understanding **early exercise features** of American options through transparent, well-documented Python code.
 
 The work is inspired by **Module 5** of the Coursera course  
 [*Introduction to Financial Engineering and Risk Management*](https://www.coursera.org/learn/financial-engineering-intro/home/info).
